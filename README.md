@@ -1,1 +1,1 @@
-# BlablaChat
+# GANgnam_stAI
